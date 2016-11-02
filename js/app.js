@@ -17,7 +17,9 @@ $( document ).ready(
           dataType: "json",
         } )
         .done( function( json ) {
-          $( "#cardPanel" ).text( json.value.joke );
+          console.log( "Lulz: success" );
+          console.log( $( "#contentPanel" ).text( json.value.joke ) );
+          $( "#contentPanel" ).text( json.value.joke );
         } )
         .fail( function( xhr, status, errorThrown ) {
           console.log( "Sorry, there was a problem!" );
@@ -31,9 +33,13 @@ $( document ).ready(
     }
 
     function isCardPanelHidden() {
+      console.log( $( "#contentPanel" ) );
+      console.log( $( "#contentPanel" ).hasClass( "hidden" ) );
       if ( $( "#contentPanel" ).hasClass( "hidden" ) ) {
+        console.log( "ding" );
         $( "#contentPanel" ).removeClass( "hidden" );
       }
+      console.log( "dong" );
       return;
     }
 
