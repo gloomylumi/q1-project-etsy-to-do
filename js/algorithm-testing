@@ -2247,3 +2247,1780 @@ var request3 = [ {
 }, {
   "linecount": "2153"
 } ];
+
+var request4 = [ {
+  "linecount": "134"
+}, {
+  "linecount": "31"
+}, {
+  "linecount": "43"
+}, {
+  "linecount": "33"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "303"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "63"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "312"
+}, {
+  "linecount": "341"
+}, {
+  "linecount": "293"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "314"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "73"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "23"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "392"
+}, {
+  "linecount": "43"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "1341"
+}, {
+  "linecount": "372"
+}, {
+  "linecount": "325"
+}, {
+  "linecount": "320"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "23"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "317"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "135"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "316"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "1530"
+}, {
+  "linecount": "3931"
+}, {
+  "linecount": "435"
+}, {
+  "linecount": "3621"
+}, {
+  "linecount": "1335"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "31"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "23"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "43"
+}, {
+  "linecount": "31"
+}, {
+  "linecount": "439"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "366"
+}, {
+  "linecount": "23"
+}, {
+  "linecount": "1312"
+}, {
+  "linecount": "1383"
+}, {
+  "linecount": "133"
+}, {
+  "linecount": "443"
+}, {
+  "linecount": "463"
+}, {
+  "linecount": "232"
+}, {
+  "linecount": "632"
+}, {
+  "linecount": "730"
+}, {
+  "linecount": "327"
+}, {
+  "linecount": "635"
+}, {
+  "linecount": "3090"
+}, {
+  "linecount": "3190"
+}, {
+  "linecount": "837"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "31"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "374"
+}, {
+  "linecount": "239"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "53"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "131"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "34"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "3"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "2353"
+}, {
+  "linecount": "30"
+}, {
+  "linecount": "13"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "32"
+}, {
+  "linecount": "634"
+}, {
+  "linecount": "553"
+}, {
+  "linecount": "364"
+}, {
+  "linecount": "2153"
+} ];
+
+var request5 = [ {
+  "linecount": "55"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "50"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "158"
+}, {
+  "linecount": "54"
+}, {
+  "linecount": "45"
+}, {
+  "linecount": "245"
+}, {
+  "linecount": "57"
+}, {
+  "linecount": "105"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "265"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "54"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "58"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "54"
+}, {
+  "linecount": "325"
+}, {
+  "linecount": "157"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "51"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "150"
+}, {
+  "linecount": "95"
+}, {
+  "linecount": "51"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "125"
+}, {
+  "linecount": "135"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "250"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "54"
+}, {
+  "linecount": "415"
+}, {
+  "linecount": "159"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "1275"
+}, {
+  "linecount": "586"
+}, {
+  "linecount": "1530"
+}, {
+  "linecount": "855"
+}, {
+  "linecount": "115"
+}, {
+  "linecount": "435"
+}, {
+  "linecount": "2255"
+}, {
+  "linecount": "1335"
+}, {
+  "linecount": "505"
+}, {
+  "linecount": "1925"
+}, {
+  "linecount": "54"
+}, {
+  "linecount": "50"
+}, {
+  "linecount": "579"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "152"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "55"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "524"
+}, {
+  "linecount": "425"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "635"
+}, {
+  "linecount": "1506"
+}, {
+  "linecount": "51"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "45"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "35"
+}, {
+  "linecount": "58"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "105"
+}, {
+  "linecount": "53"
+}, {
+  "linecount": "15"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "55"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "45"
+}, {
+  "linecount": "52"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "5"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "2353"
+}, {
+  "linecount": "25"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "154"
+}, {
+  "linecount": "695"
+}, {
+  "linecount": "258"
+}, {
+  "linecount": "553"
+}, {
+  "linecount": "1250"
+}, {
+  "linecount": "2153"
+} ];
+
+var request6 = [ {
+  "linecount": "16"
+}, {
+  "linecount": "86"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "63"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "46"
+}, {
+  "linecount": "296"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "64"
+}, {
+  "linecount": "76"
+}, {
+  "linecount": "69"
+}, {
+  "linecount": "265"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "61"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "66"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "62"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "160"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "161"
+}, {
+  "linecount": "64"
+}, {
+  "linecount": "62"
+}, {
+  "linecount": "160"
+}, {
+  "linecount": "216"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "116"
+}, {
+  "linecount": "46"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "61"
+}, {
+  "linecount": "162"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "67"
+}, {
+  "linecount": "96"
+}, {
+  "linecount": "267"
+}, {
+  "linecount": "126"
+}, {
+  "linecount": "66"
+}, {
+  "linecount": "262"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "916"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "316"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "64"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "586"
+}, {
+  "linecount": "206"
+}, {
+  "linecount": "160"
+}, {
+  "linecount": "869"
+}, {
+  "linecount": "692"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "3621"
+}, {
+  "linecount": "2624"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "61"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "46"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "86"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "26"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "64"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "46"
+}, {
+  "linecount": "366"
+}, {
+  "linecount": "160"
+}, {
+  "linecount": "463"
+}, {
+  "linecount": "16092"
+}, {
+  "linecount": "632"
+}, {
+  "linecount": "635"
+}, {
+  "linecount": "676"
+}, {
+  "linecount": "624"
+}, {
+  "linecount": "1506"
+}, {
+  "linecount": "286"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "146"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "64"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "62"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "169"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "56"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "196"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "6"
+}, {
+  "linecount": "69"
+}, {
+  "linecount": "116"
+}, {
+  "linecount": "60"
+}, {
+  "linecount": "36"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "116"
+}, {
+  "linecount": "46"
+}, {
+  "linecount": "76"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "65"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "16"
+}, {
+  "linecount": "860"
+}, {
+  "linecount": "746"
+}, {
+  "linecount": "1164"
+}, {
+  "linecount": "1264"
+}, {
+  "linecount": "634"
+}, {
+  "linecount": "1206"
+}, {
+  "linecount": "695"
+}, {
+  "linecount": "946"
+}, {
+  "linecount": "684"
+}, {
+  "linecount": "698"
+}, {
+  "linecount": "364"
+}, {
+  "linecount": "2086"
+} ];
+
+var request7 = [ {
+  "linecount": "7"
+}, {
+  "linecount": "747"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "174"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "57"
+}, {
+  "linecount": "76"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "73"
+}, {
+  "linecount": "171"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "107"
+}, {
+  "linecount": "247"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "372"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "157"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "71"
+}, {
+  "linecount": "317"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "67"
+}, {
+  "linecount": "267"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "77"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "1071"
+}, {
+  "linecount": "4720"
+}, {
+  "linecount": "1275"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "1079"
+}, {
+  "linecount": "779"
+}, {
+  "linecount": "579"
+}, {
+  "linecount": "777"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "72"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "730"
+}, {
+  "linecount": "327"
+}, {
+  "linecount": "837"
+}, {
+  "linecount": "676"
+}, {
+  "linecount": "1007"
+}, {
+  "linecount": "37"
+}, {
+  "linecount": "147"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "374"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "70"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "287"
+}, {
+  "linecount": "7"
+}, {
+  "linecount": "187"
+}, {
+  "linecount": "87"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "75"
+}, {
+  "linecount": "27"
+}, {
+  "linecount": "17"
+}, {
+  "linecount": "76"
+}, {
+  "linecount": "207"
+}, {
+  "linecount": "47"
+}, {
+  "linecount": "746"
+}, {
+  "linecount": "472"
+}, {
+  "linecount": "879"
+} ];
+
+var request8 = [ {
+  "linecount": "48"
+}, {
+  "linecount": "804"
+}, {
+  "linecount": "86"
+}, {
+  "linecount": "82"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "158"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "84"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "148"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "844"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "82"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "58"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "288"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "81"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "108"
+}, {
+  "linecount": "78"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "82"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "1880"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "586"
+}, {
+  "linecount": "128"
+}, {
+  "linecount": "118"
+}, {
+  "linecount": "802"
+}, {
+  "linecount": "869"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "855"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "88"
+}, {
+  "linecount": "128"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "4848"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "80"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "86"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "1383"
+}, {
+  "linecount": "288"
+}, {
+  "linecount": "837"
+}, {
+  "linecount": "1018"
+}, {
+  "linecount": "286"
+}, {
+  "linecount": "84"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "58"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "84"
+}, {
+  "linecount": "287"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "187"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "87"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "84"
+}, {
+  "linecount": "88"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "48"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "18"
+}, {
+  "linecount": "68"
+}, {
+  "linecount": "28"
+}, {
+  "linecount": "88"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "8"
+}, {
+  "linecount": "860"
+}, {
+  "linecount": "2248"
+}, {
+  "linecount": "684"
+}, {
+  "linecount": "258"
+}, {
+  "linecount": "879"
+}, {
+  "linecount": "698"
+}, {
+  "linecount": "2086"
+} ];
+
+var request9 = [ {
+  "linecount": "49"
+}, {
+  "linecount": "109"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "296"
+}, {
+  "linecount": "191"
+}, {
+  "linecount": "293"
+}, {
+  "linecount": "92"
+}, {
+  "linecount": "409"
+}, {
+  "linecount": "69"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "392"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "29"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "90"
+}, {
+  "linecount": "912"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "29"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "49"
+}, {
+  "linecount": "95"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "96"
+}, {
+  "linecount": "192"
+}, {
+  "linecount": "916"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "49"
+}, {
+  "linecount": "159"
+}, {
+  "linecount": "109"
+}, {
+  "linecount": "49"
+}, {
+  "linecount": "90"
+}, {
+  "linecount": "1079"
+}, {
+  "linecount": "869"
+}, {
+  "linecount": "692"
+}, {
+  "linecount": "689"
+}, {
+  "linecount": "3931"
+}, {
+  "linecount": "90"
+}, {
+  "linecount": "4199"
+}, {
+  "linecount": "1925"
+}, {
+  "linecount": "779"
+}, {
+  "linecount": "1429"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "249"
+}, {
+  "linecount": "91"
+}, {
+  "linecount": "579"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "29"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "39"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "59"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "29"
+}, {
+  "linecount": "94"
+}, {
+  "linecount": "439"
+}, {
+  "linecount": "16092"
+}, {
+  "linecount": "3090"
+}, {
+  "linecount": "3190"
+}, {
+  "linecount": "499"
+}, {
+  "linecount": "239"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "169"
+}, {
+  "linecount": "90"
+}, {
+  "linecount": "49"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "196"
+}, {
+  "linecount": "9"
+}, {
+  "linecount": "69"
+}, {
+  "linecount": "29"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "19"
+}, {
+  "linecount": "695"
+}, {
+  "linecount": "946"
+}, {
+  "linecount": "294"
+}, {
+  "linecount": "879"
+}, {
+  "linecount": "698"
+}, {
+  "linecount": "929"
+}, {
+  "linecount": "1949"
+} ];
+
+var linecountCompiled = request1.concat( request2, request3, request4, request5, request6, request7, request8, request9 );
+var linecountValues = linecountCompiled.map( function( obj ) {
+  return parseInt( obj.linecount );
+} );
+
+linecountValues.sort( function compareNumbers( a, b ) {
+  return a - b;
+} );
+
+function uniq( a ) {
+  return Array.from( new Set( a ) );
+}
+var uniqueLinecounts = uniq( linecountValues );
+console.log( uniqueLinecounts );
