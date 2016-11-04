@@ -7,9 +7,10 @@ $( document ).ready(
     $( "#lulzButton" ).click( lulzButtonClicked );
     $( "#inspiredButton" ).click( inspiredButtonClicked );
     $( "#allFeelsButton" ).click( allTheFeelsClicked );
+    $( ".feels-button" ).one( "click", downsizeGimme );
     // **** FUNCTIONS ****
     function lulzButtonClicked() {
-      prepContentPanel();
+      $( "#contentPanel" ).slideUp( 280 );
       $.ajax( {
           url: "http://api.icndb.com/jokes/random",
           data: {
@@ -19,9 +20,9 @@ $( document ).ready(
           dataType: "json",
         } )
         .done( function( json ) {
-          console.log( "Lulz: success" );
-          console.log( $( "#contentPanel" ).text( json.value.joke ) );
-          $( "#contentPanel" ).text( json.value.joke );
+          $( "#contentPanel" ).html( '' );
+          appendNewContent( "p", json.value.joke, "jokeText" );
+          prepContentPanel();
         } )
         .fail( function( xhr, status, errorThrown ) {
           console.log( "Sorry, there was a problem!" );
@@ -35,18 +36,16 @@ $( document ).ready(
     }
 
     function inspiredButtonClicked() {
+      $( "#contentPanel" ).slideUp( 280 );
       $.ajax( {
           url: " http://g-forismatic.herokuapp.com/api/1.0/?method=getQuote&format=json&lang=en"
         } )
         .done( function( json ) {
+          console.log( json );
+          $( "#contentPanel" ).html( '' );
+          appendNewContent( "p", json.quoteText, "quote" );
+          appendNewContent( "p", json.quoteAuthor, "author" );
           prepContentPanel();
-          var quote = document.createElement( "p" );
-          var author = document.createElement( 'p' );
-          $( quote ).addClass( "quote" );
-          $( author ).addClass( "author" );
-          $( quote ).text( json.quoteText ).appendTo( "#contentPanel" );
-          console.log( $( quote ).text );
-          $( author ).text( json.quoteAuthor ).appendTo( "#contentPanel" );
         } )
         .fail( function( xhr, status, errorThrown ) {
           console.log( "Sorry, there was a problem!" );
@@ -60,19 +59,21 @@ $( document ).ready(
     }
 
     function allTheFeelsClicked() {
+      $( "#contentPanel" ).slideUp( 280 );
       var randomLinecount = randomIntegerGenerator( 5, 38 );
       var randomLinecountRequest = ( "http://poetdb.herokuapp.com/linecount/" + randomLinecount + ":abs" );
       $.ajax( {
           url: randomLinecountRequest
         } )
         .done( function( json ) {
-          prepContentPanel();
           var indexRand = randomIntegerGenerator( 0, json.length );
           var randomPoem = json[ indexRand ];
           var poemString = randomPoem.lines.join( '<br>' );
+          $( "#contentPanel" ).html( '' );
           appendNewContent( "p", randomPoem.title, "poemTitle" );
           appendNewContent( "p", randomPoem.author, "poemAuthor" );
           appendNewContent( "p", poemString, "poemLines" );
+          prepContentPanel();
 
         } )
         .fail( function( xhr, status, errorThrown ) {
@@ -89,11 +90,11 @@ $( document ).ready(
     function prepContentPanel() {
       if ( $( "#contentPanel" ).hasClass( "hidden" ) ) {
         // unhide the contentPanel if it is hidden
+        $( "#contentPanel" ).slideDown().fadeIn( 'slow' );
         $( "#contentPanel" ).removeClass( "hidden" );
       }
-      // clear any existing content from the content panel
-      $( "#contentPanel" ).html( '' );
-      return;
+      $( "#contentPanel" ).slideDown( 280 ).fadeIn( 'slow' );
+
     }
 
     function randomIntegerGenerator( min, max ) {
@@ -108,6 +109,15 @@ $( document ).ready(
       return;
     }
 
+    function downsizeGimme() {
+      $( "#gimme" ).slideUp( 280 ).removeClass( "super-padding" ).addClass( "gimme-small" ).slideDown( 280 );
+    }
 
+    function requestFail( xhr, status, errorThrown ) {
+      console.log( "Sorry, there was a problem!" );
+      console.log( "Error: " + errorThrown );
+      console.log( "Status: " + status );
+      console.dir( xhr );
+    }
 
   } );
