@@ -8,7 +8,6 @@ body {
  }
 #logo-container {
   font-family: "Croissant One";
-  font-weight: normal;
   font-size: 2rem;
 }
  main {
@@ -21,14 +20,10 @@ body {
  }
 
  .feels-button {
-   margin-left: auto;
-   margin-right: auto;
-   margin-top: 1rem;
-   margin-bottom: 1rem;
+   margin: 1rem auto;
    min-width: 175px;
    font-family: "Arima Madurai";
  }
-
  .hidden {
    display: none;
  }
@@ -38,7 +33,6 @@ body {
 .gimme-small{
   font-size: 2.4rem;
 }
-
 .poemTitle {
   font-weight: bolder;
 }
@@ -49,11 +43,9 @@ body {
 .jokeText, .quote, .author, .poemTitle {
   font-size: 1.4rem;
 }
-
 .author {
   font-style: italic;
 }
-
 p{
   font-family: "Philosopher"
 }

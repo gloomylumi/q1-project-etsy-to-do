@@ -41,7 +41,6 @@ $( document ).ready(
           url: " http://g-forismatic.herokuapp.com/api/1.0/?method=getQuote&format=json&lang=en"
         } )
         .done( function( json ) {
-          console.log( json );
           $( "#contentPanel" ).html( '' );
           appendNewContent( "p", json.quoteText, "quote" );
           appendNewContent( "p", json.quoteAuthor, "author" );
