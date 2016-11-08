@@ -18,8 +18,14 @@ All three APIs return in JSON format with a mixture of objects and arrays when p
 * HTML
 * CSS
 
-##### Pivotal Tracker Link  
+#### Pivotal Tracker Link  
 https://www.pivotaltracker.com/n/projects/1909521
 
 #### Production Site
 http://gimme-feels.surge.sh
+
+#### Retrospective
+https://docs.google.com/spreadsheets/d/1G1WqbsGrEZx_A3JN58OwqRg4j6CGzYy77FBsVgdCBPA/edit?usp=sharing
+
+#### Self-Assessment
+https://docs.google.com/document/d/1bDjCbUNUiU9Pgrwt9MzIPKLe6cIMruluC48XbtIqBgk/edit?usp=sharing
