@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Croissant+One|Philosopher|Bitter|Arima+Madurai');
+
+
 body {
    display: flex;
    min-height: 100vh;
    flex-direction: column;
  }
-
+#logo-container {
+  font-family: "Croissant One";
+  font-size: 2rem;
+}
  main {
    flex: 1 0 auto;
  }
@@ -14,9 +20,35 @@ body {
  }
 
  .feels-button {
-   min-width: 200px;
+   margin: 1rem auto;
+   min-width: 175px;
+   font-family: "Arima Madurai";
  }
-
  .hidden {
    display: none;
  }
+ .card-panel {
+   margin-top: 2rem;
+ }
+.gimme-small{
+  font-size: 2.4rem;
+}
+.poemTitle {
+  font-weight: bolder;
+}
+.poemAuthor {
+  font-style: italic;
+  font-size: 1.2rem;
+}
+.jokeText, .quote, .author, .poemTitle {
+  font-size: 1.4rem;
+}
+.author {
+  font-style: italic;
+}
+p{
+  font-family: "Philosopher"
+}
+a, h1 {
+  font-family: "Bitter"
+}
